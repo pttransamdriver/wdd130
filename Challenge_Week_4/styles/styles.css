@@ -1,0 +1,43 @@
+/* Center everything */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: top;
+    height: 100vh;
+    margin: 0;
+    background-color: pink;
+  }
+  
+  /* "hover" turns the "Education" white on mouse hover */
+  h1:hover {
+    color: white;
+  }
+  
+  .aof4 {
+    text-align: left; 
+    padding-left: 10px; /* Add some left padding to create space to put the list in the right place visually */
+  }
+  
+  p1 {
+    text-align: center;
+    color: white;
+  }
+  .end {
+    text-align: center;
+  }
+  .quote {
+    text-align: center;
+    color: white;
+  }
+  
+  .prophet {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    max-width: 150px;
+    height: auto;
+  }
+  
+
+  
